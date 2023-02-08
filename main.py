@@ -4,6 +4,6 @@ import exercici2_A as ex2A
 import exercici3_A as ex3A
 
 # Funcions del integrant A
-ex1A.comparaNumerosA()
-ex2A.nomRepMissatgeA()
-ex3A.endevinaElNumeroA()
+print(ex1A.comparaNumerosA())
+print(ex2A.nomRepMissatgeA())
+print(ex3A.endevinaElNumeroA())

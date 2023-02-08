@@ -25,4 +25,4 @@ def endevinaElNumeroA():
         numUsuari = input("Endevina el numero del {rangMin} al {rangMax}: ".format(rangMin=rangMin, rangMax=rangMax))
         int(numUsuari)
 
-    print("Molt bé!. Has endevinat el número")
+    return "Molt bé!. Has endevinat el número"
